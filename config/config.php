@@ -4,8 +4,7 @@
 
 	// path to database file
 	// Sesuaikan dengan koneksi Database di Software Attendance
-	#$database_path = "C:\Program Files (x86)\Attendance Management\att2000.mdb";
-	$database_path = "D:\DBACCESS\wika-attBackup.mdb";
+	$database_path = "C:\Program Files (x86)\Attendance Management\att2000.mdb";
 
 	//check file exist before we proceed
 	if (!file_exists($database_path)) {
