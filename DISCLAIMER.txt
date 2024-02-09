@@ -1,0 +1,4 @@
+Ada beberapa hal yang harus diperhatikan sebelum menggunakan aplikasi ini :
+
+1. Aplikasi baru di testing di LOCAL Server belum dicoba di Live Server
+2. Aplikasi ini bersifat Gratis. Siapapun boleh untuk merubah , edit atau membagikan aplikasi ini dengan catatan tidak ada Garansi dalam bentuk apapun apabila dalam menggunakan aplikasi ini terjadi sesuatu hal yang tidak diinginkan
