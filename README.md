@@ -1,2 +1,2 @@
 # jsonatt2000
-Aplikasi JSON View dari Sotware Attendance ATT2000 dengan PHP
+Aplikasi untuk menampilkan data JSON dari Sotware Attendance ATT2000 dengan menggunakan PHP
